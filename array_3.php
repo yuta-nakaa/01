@@ -15,6 +15,3 @@ echo $nums[0][0] . '<br>' ;
 echo $nums[1][0] . '<br>' ;
 
 echo $nums[0][1] . '<br>' ;
-
-
-
